@@ -6,3 +6,4 @@ num2=20;
 let result;
 (num1>num2)?result=num1*2:result=num1+num2;
 console.log(result); 
+console.log("Just Check"); 
